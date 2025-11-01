@@ -34,6 +34,19 @@ Wolfgang-Weingart/
 └── img/            # Images and icons
 ```
 
+## 🌐 Live Demo
+
+**View the live site**: [https://lodymel.github.io/Wolfgang-Weingart/](https://lodymel.github.io/Wolfgang-Weingart/)
+
+The website is hosted on GitHub Pages. To enable GitHub Pages for this repository:
+
+1. Go to **Settings** > **Pages** in your GitHub repository
+2. Under **Source**, select the branch (`main` or `gh-pages`)
+3. Select the folder (`/ (root)`)
+4. Click **Save**
+
+Your site will be available at `https://[username].github.io/Wolfgang-Weingart/`
+
 ## 🚀 Getting Started
 
 1. Clone or download this repository
